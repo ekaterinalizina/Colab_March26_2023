@@ -4,9 +4,13 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Hello Kate 
-		System.out.println(Kate);
-		Maven Project Code Collaborating 
+		String Word = "Hello Kate";
+		System.out.println(Word);
+		
+		String Hi= "Hi Emon";
+		
+		System.out.println(Hi);
+		//Maven Project Code Collaborating 
 
 	}
 
